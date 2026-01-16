@@ -26,8 +26,8 @@ All blocks of a linked list come from a structure that is used with two paramete
   ./prog
 ```
     
-<div align="center">
-    <h3>Languages & Tools</h3>
+<div>
+    <h3>Language</h3>
     <p>
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     </p>
